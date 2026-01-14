@@ -1,0 +1,9 @@
+from,to
+delayed_delivery,review_score
+customer_tenure_days,is_first_order
+num_items,review_score
+freight_value,num_items
+freight_value,order_price
+order_price,delayed_delivery
+prior_orders,delayed_delivery
+is_first_order,delayed_delivery
